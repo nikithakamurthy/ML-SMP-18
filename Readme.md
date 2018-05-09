@@ -1,12 +1,11 @@
 
 **
 
-# ACM-CyberSecurity
+# ACM-Machine Learning SMP
 
 ** 
 
-This repository contains all the coursework and assignments for the summer mentorship project 2018 on Cyber Security and Programming with Crypto API.
-
+This repository contains all the coursework and assignments for the summer mentorship project 2018 on Machine Learning.
  
 
 ## How to submit assignments?
