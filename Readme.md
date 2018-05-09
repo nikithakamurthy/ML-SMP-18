@@ -26,7 +26,7 @@ Inside the folder create a text file with your details.
     cd your-name
     gedit intro.txt // This creates /opens a text file in the gedit editor of your linux system
 
-Copy and paste your Jupyter Notebooks into the directory.
+Copy and paste your Jupyter Notebooks into the directory. ( .ipynb file )
 
 **4) Add and commit changes. Push it to your repository.**
 
