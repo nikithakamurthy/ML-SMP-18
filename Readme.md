@@ -27,6 +27,7 @@ Inside the folder create a text file with your details.
     gedit intro.txt // This creates /opens a text file in the gedit editor of your linux system
 
 Copy and paste your Jupyter Notebooks into the directory.
+
 **4) Add and commit changes. Push it to your repository.**
 
     git add .	// ' . '  is used to add all files. git add file-name adds single files 
